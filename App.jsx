@@ -4,10 +4,10 @@ import Card from "./components/Card.jsx"
 const App = (props) => {
     return (
         <div>
-            <h1>Cold Hearted.</h1>
+            <h1>Cruel Summer.</h1>
             <Card 
                 itunes_song_cover_art = "track_8_song_art.png"
-                itunes_song_title = "RunWay"
+                itunes_song_title = "RunWay Remix"
                 itunes_album_title = "My Beautiful Dark Twisted Fantasy"
                 itunes_artist_title = "Kanye West"
                 itunes_genre_title = "Baroque Sophisticated Ignorance"
