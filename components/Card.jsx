@@ -1,6 +1,6 @@
-import album_icon from "../public/album_icon.png"
-import artist_icon from "../public/artist_icon.png"
-import genre_icon from "../public/artist_icon.png"
+import album_icon from "../public/images/album_icon.png"
+import artist_icon from "../public/images/artist_icon.png"
+import genre_icon from "../public/images/genre_icon.png"
 
 const Card = (props) => {
     return (
