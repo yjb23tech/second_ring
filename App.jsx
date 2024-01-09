@@ -12,6 +12,20 @@ const App = (props) => {
                 itunes_artist_title = "Kanye West"
                 itunes_genre_title = "Baroque Sophisticated Ignorance"
             />
+            <Card 
+                itunes_song_cover_art = "track_9_song_art.png"
+                itunes_song_title = "Dark Fantasy"
+                itunes_album_title = "My Beautiful Dark Twisted Fantasy"
+                itunes_artist_title = "Kanye West"
+                itunes_genre_title = "Baroque Sophisticated Ignorance"
+            />
+            <Card 
+                itunes_song_cover_art = "track_10_song_art.png"
+                itunes_song_title = "Hell Of A Life"
+                itunes_album_title = "My Beautiful Dark Twisted Fantasy"
+                itunes_artist_title = "Kanye West"
+                itunes_genre_title = "Baroque Sophisticated Ignorance"
+            />
         </div>
     )
 }
