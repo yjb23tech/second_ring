@@ -6,7 +6,7 @@ const App = (props) => {
         <div>
             <h1>Cold Hearted.</h1>
             <Card 
-                itunes_song_cover_art = "track_8_song_cover_art.png"
+                itunes_song_cover_art = "track_8_song_art.png"
                 itunes_song_title = "RunWay"
                 itunes_album_title = "My Beautiful Dark Twisted Fantasy"
                 itunes_artist_title = "Kanye West"
