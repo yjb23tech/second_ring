@@ -10,7 +10,7 @@ const App = (props) => {
                 itunes_song_title = "RunWay"
                 itunes_album_title = "My Beautiful Dark Twisted Fantasy"
                 itunes_artist_title = "Kanye West"
-                itunes_genre_icon = "Baroque Sophisticated Ignorance"
+                itunes_genre_title = "Baroque Sophisticated Ignorance"
             />
         </div>
     )

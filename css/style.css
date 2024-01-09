@@ -1,0 +1,47 @@
+body {
+    background-color: whitesmoke;
+}
+
+.itunes-song-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.itunes-song-cover-art {
+    height: auto;
+    width: 250px;
+    border-radius: 8px;
+}
+
+.itunes-song-details {
+    height: 250px;
+    width: 350px; 
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.info-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.info-group > img {
+    height: auto;
+    width: 18px; 
+    margin-right: 8px;
+
+}
+
+.util-box-border {
+    border: 2px dotted steelblue;
+}
